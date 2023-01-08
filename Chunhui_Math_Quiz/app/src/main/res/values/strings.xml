@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chunhui_Math_Quiz</string>
+    <string-array name="myQuiz">
+        <item>All</item>
+        <item>Correct</item>
+        <item>Wrong</item>
+    </string-array>
+
+</resources>
